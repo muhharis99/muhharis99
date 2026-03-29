@@ -139,34 +139,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-
-<br/><br/>
-
-<!-- ✅ github-profile-summary-cards — sangat stabil, self-hosted -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhharis99&theme=github_dark" alt="GitHub Profile Summary" width="98%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhharis99&theme=github_dark" alt="Repos Per Language" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhharis99&theme=github_dark" alt="Most Commit Language" height="160"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhharis99&theme=github_dark" alt="Stats" height="160"/>
-
-<br/><br/>
-
-<!-- ✅ streak-stats.demolab.com — paling stabil untuk streak -->
-<img src="https://streak-stats.demolab.com/?user=muhharis99&theme=dark&background=0d1117&ring=FF0000&fire=FF4444&currStreakLabel=FF0000&border=FF0000&sideLabels=c9d1d9&dates=888888&border_radius=10" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 | Platform | Detail |
