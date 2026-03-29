@@ -1,14 +1,48 @@
 <div align="center">
 
-<!-- ◈ HEADER BANNER ◈ -->
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:2a0000,100:0d0d0d&height=300&text=haris.uix&fontSize=110&fontColor=FF0000&animation=twinkling&fontAlignY=45&desc=Muhammad%20Haris%20Chaidir%20%7C%20Web%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=68&descSize=19&descColor=ffffff&stroke=FF0000&strokeWidth=2)](https://www.harisuix.com)
+<!-- ◈ HEADER SVG — INLINE, PASTI TAMPIL ◈ -->
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0d0d0d"/>
+      <stop offset="45%"  stop-color="#1a0000"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0d0d0d"/>
+      <stop offset="30%"  stop-color="#FF0000"/>
+      <stop offset="70%"  stop-color="#FF4444"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="860" height="200" fill="url(#bgGrad)" rx="14"/>
+  <rect x="0" y="0" width="860" height="3" fill="url(#lineGrad)" rx="2"/>
+  <text x="18"  y="22"  font-family="monospace" font-size="13" fill="#FF0000" opacity="0.6">◈</text>
+  <text x="833" y="22"  font-family="monospace" font-size="13" fill="#FF0000" opacity="0.6">◈</text>
+  <text x="18"  y="192" font-family="monospace" font-size="13" fill="#FF0000" opacity="0.6">◈</text>
+  <text x="833" y="192" font-family="monospace" font-size="13" fill="#FF0000" opacity="0.6">◈</text>
+  <text x="430" y="58"  font-family="'Courier New', monospace" font-size="11" fill="#FF4444"
+        text-anchor="middle" letter-spacing="8" opacity="0.85">WEB DEVELOPER  &amp;  UI/UX DESIGNER</text>
+  <text x="430" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="42"
+        font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="1"
+        filter="url(#glow)">Muhammad Haris Chaidir</text>
+  <text x="430" y="142" font-family="'Courier New', monospace" font-size="18"
+        fill="#FF0000" text-anchor="middle" letter-spacing="4" font-weight="bold">haris.uix</text>
+  <text x="430" y="168" font-family="'Courier New', monospace" font-size="10"
+        fill="#666666" text-anchor="middle" letter-spacing="4">SURAKARTA, JAWA TENGAH — INDONESIA</text>
+  <rect x="0" y="197" width="860" height="3" fill="url(#lineGrad)" rx="2"/>
+</svg>
 
-<!-- ◈ ANIMATED TYPING ◈ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=◈+System+Initialized+—+haris.uix+v3.0+✓;⬡+PHP+%7C+Laravel+%7C+MySQL+%7C+Figma+%7C+Git;◉+Healthcare+IT+%7C+POS+%7C+Company+Profile;◑+Full+Stack+Dev+%7C+UI%2FUX+Designer;🟢+Open+to+New+Projects+%26+Collaborations)](https://git.io/typing-svg)
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=◈+System+Initialized+—+haris.uix+v3.0+✓;⬡+PHP+%7C+Laravel+%7C+MySQL+%7C+Figma+%7C+Git;◉+Healthcare+IT+%7C+POS+%7C+Company+Profile;◑+Full+Stack+Dev+%26+UI%2FUX+Designer;🟢+Open+to+New+Projects+%26+Collaborations)](https://www.harisuix.com)
 
 <br/>
 
-<!-- ◈ BADGES ◈ -->
 [![Website](https://img.shields.io/badge/🌐_Portfolio-harisuix.com-FF0000?style=for-the-badge&labelColor=0d0d0d)](https://www.harisuix.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d)](https://wa.me/62895376257021)
 [![Instagram](https://img.shields.io/badge/Instagram-%40haris.uix-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/haris.uix)
@@ -21,23 +55,21 @@
 
 ---
 
-<!-- ◈ SYSTEM BOOT ◈ -->
-
 ```text
 ◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-                          BOOTING   haris.uix   v3.0
+                         BOOTING   haris.uix   v3.0
 ◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
 
   [▓▓▓▓▓▓▓▓▓▓]  Initializing PHP & Laravel engine ..............  OK ✓
   [▓▓▓▓▓▓▓▓▓▓]  Loading MySQL database layer ...................  OK ✓
   [▓▓▓▓▓▓▓▓▓▓]  Mounting Figma & Adobe XD modules ..............  OK ✓
   [▓▓▓▓▓▓▓▓▓▓]  Connecting WhatsApp API ........................  OK ✓
-  [▓▓▓▓▓▓▓▓▓▓]  Calibrating Aura Matrix ........................  ∞ ✓
+  [▓▓▓▓▓▓▓▓▓▓]  Calibrating Aura Matrix ........................  ∞  ✓
 
   ◉  STATUS    : 🟢 ONLINE — Available for New Projects
-  ◉  LOCATION  : Surakarta, Jawa Tengah 🇮🇩
+  ◉  LOCATION  : Surakarta, Jawa Tengah, Indonesia 🇮🇩
   ◉  COMPANY   : Bengawansoft
-  ◉  EXP       : 3+ Years | Web Development & UI/UX Design
+  ◉  EXPERIENCE: 3+ Years | Web Development & UI/UX Design
   ◉  WORKFLOW  : Analisa → Desain → Develop → Deploy → Maintain
 
 ◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
@@ -103,27 +135,56 @@ class MuhammadHarisChaidir extends WebDeveloper implements UIUXDesigner
 <div align="center">
 
 ### ⬡ Frontend
-
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark)](https://skillicons.dev)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⬡ Backend & Database
-
-[![Backend](https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark)](https://skillicons.dev)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ⬡ Design & Tools
-
-[![Design](https://skillicons.dev/icons?i=figma,xd,git,vscode&theme=dark)](https://skillicons.dev)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br/>
 
-| Skill | Level | Progress |
-|-------|-------|----------|
-| HTML · CSS · JavaScript | Expert | `████████████████████░` **92%** |
-| PHP & Laravel | Advanced | `███████████████████░░` **88%** |
-| UI/UX Design · Figma | Advanced | `██████████████████░░░` **85%** |
-| MySQL & Database | Advanced | `█████████████████░░░░` **83%** |
-| Git & Version Control | Proficient | `████████████████░░░░░` **80%** |
-| WhatsApp API | Proficient | `███████████████░░░░░░` **78%** |
+<!-- ◈ SKILL MATRIX — INLINE SVG ◈ -->
+<svg width="700" height="230" viewBox="0 0 700 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF0000"/>
+      <stop offset="100%" stop-color="#FF4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="230" fill="#0d1117" rx="10"/>
+  <rect x="0" y="0" width="700" height="2" fill="#FF0000" rx="1"/>
+  <text x="350" y="28" font-family="monospace" font-size="12" fill="#FF0000" text-anchor="middle" letter-spacing="5">◈  SKILL  MATRIX  ◈</text>
+  <text x="20"  y="60"  font-family="monospace" font-size="12" fill="#c9d1d9">HTML · CSS · JavaScript</text>
+  <rect x="260" y="47"  width="380" height="14" fill="#1a1a1a" rx="7"/>
+  <rect x="260" y="47"  width="350" height="14" fill="url(#barGrad)" rx="7" opacity="0.9"/>
+  <text x="650" y="60"  font-family="monospace" font-size="11" fill="#FF4444" text-anchor="end">92%</text>
+  <text x="20"  y="98"  font-family="monospace" font-size="12" fill="#c9d1d9">PHP &amp; Laravel</text>
+  <rect x="260" y="85"  width="380" height="14" fill="#1a1a1a" rx="7"/>
+  <rect x="260" y="85"  width="334" height="14" fill="url(#barGrad)" rx="7" opacity="0.9"/>
+  <text x="650" y="98"  font-family="monospace" font-size="11" fill="#FF4444" text-anchor="end">88%</text>
+  <text x="20"  y="136" font-family="monospace" font-size="12" fill="#c9d1d9">UI/UX Design · Figma</text>
+  <rect x="260" y="123" width="380" height="14" fill="#1a1a1a" rx="7"/>
+  <rect x="260" y="123" width="323" height="14" fill="url(#barGrad)" rx="7" opacity="0.9"/>
+  <text x="650" y="136" font-family="monospace" font-size="11" fill="#FF4444" text-anchor="end">85%</text>
+  <text x="20"  y="174" font-family="monospace" font-size="12" fill="#c9d1d9">MySQL &amp; Database</text>
+  <rect x="260" y="161" width="380" height="14" fill="#1a1a1a" rx="7"/>
+  <rect x="260" y="161" width="316" height="14" fill="url(#barGrad)" rx="7" opacity="0.9"/>
+  <text x="650" y="174" font-family="monospace" font-size="11" fill="#FF4444" text-anchor="end">83%</text>
+  <text x="20"  y="212" font-family="monospace" font-size="12" fill="#c9d1d9">Git &amp; Version Control</text>
+  <rect x="260" y="199" width="380" height="14" fill="#1a1a1a" rx="7"/>
+  <rect x="260" y="199" width="304" height="14" fill="url(#barGrad)" rx="7" opacity="0.9"/>
+  <text x="650" y="212" font-family="monospace" font-size="11" fill="#FF4444" text-anchor="end">80%</text>
+</svg>
 
 </div>
 
@@ -151,7 +212,7 @@ class MuhammadHarisChaidir extends WebDeveloper implements UIUXDesigner
 
 | Project | Kategori | Tech Stack | Status |
 |---------|----------|------------|:------:|
-| 🏥 **SIMRS RSU Islam Klaten** | Sistem RS Terintegrasi | PHP · MySQL · Bootstrap | ![Live](https://img.shields.io/badge/●_LIVE-00C853?style=flat-square&logoColor=white) |
+| 🏥 **SIMRS RSU Islam Klaten** | Sistem RS Terintegrasi | PHP · MySQL · Bootstrap | ![Live](https://img.shields.io/badge/●_LIVE-00C853?style=flat-square) |
 | 🌐 **Website RSU Islam Klaten** | Company Profile RS | Laravel · CMS Custom | ![Live](https://img.shields.io/badge/●_LIVE-00C853?style=flat-square) |
 | 🌶️ **Website PT Lombok Gandaria** | Company Profile UMKM | Laravel · MySQL | ![Live](https://img.shields.io/badge/●_LIVE-00C853?style=flat-square) |
 | 🏫 **Website SLBN Karanganyar** | Pendidikan | PHP · CMS | ![Live](https://img.shields.io/badge/●_LIVE-00C853?style=flat-square) |
@@ -194,7 +255,7 @@ class MuhammadHarisChaidir extends WebDeveloper implements UIUXDesigner
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhharis99&theme=react-dark&bg_color=0d1117&color=FF0000&line=FF4444&point=FF0000&area=true&area_color=2a0000&hide_border=false&border_color=FF0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhharis99&theme=react-dark&bg_color=0d1117&color=FF0000&line=FF4444&point=FF0000&area=true&area_color=2a0000&border_color=FF0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -231,10 +292,29 @@ class MuhammadHarisChaidir extends WebDeveloper implements UIUXDesigner
 
 ---
 
-<!-- ◈ FOOTER ◈ -->
-
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:2a0000,100:0d0d0d&height=120&section=footer&text=%22Kode%20yang%20baik%20bukan%20hanya%20berjalan%20%E2%80%94%20tapi%20bisa%20dirawat%20%26%20dikembangkan.%22&fontSize=13&fontColor=FF4444&fontAlignY=45&desc=%C2%A9%202025%20Muhammad%20Haris%20Chaidir%20%7C%20haris.uix%20%7C%20Surakarta%2C%20Jawa%20Tengah&descSize=11&descColor=888888&descAlignY=72)](https://www.harisuix.com)
+<!-- ◈ FOOTER SVG — INLINE ◈ -->
+<svg width="860" height="80" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0d0d0d"/>
+      <stop offset="30%"  stop-color="#FF0000"/>
+      <stop offset="70%"  stop-color="#FF4444"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="80" fill="#0d0d0d" rx="10"/>
+  <rect x="0" y="0"  width="860" height="3" fill="url(#footerLine)" rx="1"/>
+  <text x="430" y="32" font-family="'Courier New', monospace" font-size="11"
+        fill="#888888" text-anchor="middle" letter-spacing="2">© 2025 MUHAMMAD HARIS CHAIDIR  ·  ALL RIGHTS RESERVED</text>
+  <text x="430" y="56" font-family="'Courier New', monospace" font-size="11"
+        fill="#FF4444" text-anchor="middle" letter-spacing="1">"Kode yang baik bukan hanya berjalan — tapi bisa dirawat dan dikembangkan."</text>
+  <rect x="0" y="77" width="860" height="3" fill="url(#footerLine)" rx="1"/>
+</svg>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=muhharis99&color=FF0000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
