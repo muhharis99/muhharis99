@@ -39,10 +39,12 @@
 
 <br/><br/>
 
+<!-- ◈ TYPING — demolab stabil ◈ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=◈+System+Initialized+—+haris.uix+v3.0+✓;⬡+PHP+%7C+Laravel+%7C+MySQL+%7C+Figma+%7C+Git;◉+Healthcare+IT+%7C+POS+%7C+Company+Profile;◑+Full+Stack+Dev+%26+UI%2FUX+Designer;🟢+Open+to+New+Projects+%26+Collaborations)](https://www.harisuix.com)
 
 <br/>
 
+<!-- ◈ SOCIAL BADGES — shields.io, sangat stabil ◈ -->
 [![Website](https://img.shields.io/badge/🌐_Portfolio-harisuix.com-FF0000?style=for-the-badge&labelColor=0d0d0d)](https://www.harisuix.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d)](https://wa.me/62895376257021)
 [![Instagram](https://img.shields.io/badge/Instagram-%40haris.uix-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/haris.uix)
@@ -55,6 +57,7 @@
 
 ---
 
+<!-- ◈ BOOT SEQUENCE ◈ -->
 ```text
 ◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
                          BOOTING   haris.uix   v3.0
@@ -153,7 +156,7 @@ class MuhammadHarisChaidir extends WebDeveloper implements UIUXDesigner
 
 <br/>
 
-<!-- ◈ SKILL MATRIX — INLINE SVG ◈ -->
+<!-- ◈ SKILL MATRIX — 100% INLINE SVG ◈ -->
 <svg width="700" height="230" viewBox="0 0 700 230" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -225,20 +228,11 @@ class MuhammadHarisChaidir extends WebDeveloper implements UIUXDesigner
 
 ---
 
-## ⬡ GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=muhharis99&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## ◈ GitHub Stats
 
 <div align="center">
 
+<!-- github-readme-stats & streak-stats: dua service paling stabil untuk GitHub README -->
 <img height="185em" src="https://github-readme-stats.vercel.app/api?username=muhharis99&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&border_color=FF0000&border_radius=10" />
 &nbsp;
 <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhharis99&layout=compact&theme=dark&bg_color=0d1117&title_color=FF0000&text_color=c9d1d9&border_color=FF0000&border_radius=10" />
@@ -246,16 +240,6 @@ class MuhammadHarisChaidir extends WebDeveloper implements UIUXDesigner
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=muhharis99&theme=dark&background=0d1117&ring=FF0000&fire=FF4444&currStreakLabel=FF0000&border=FF0000&sideLabels=c9d1d9&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## ◑ Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhharis99&theme=react-dark&bg_color=0d1117&color=FF0000&line=FF4444&point=FF0000&area=true&area_color=2a0000&border_color=FF0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -294,7 +278,7 @@ class MuhammadHarisChaidir extends WebDeveloper implements UIUXDesigner
 
 <div align="center">
 
-<!-- ◈ FOOTER SVG — INLINE ◈ -->
+<!-- ◈ FOOTER SVG — 100% INLINE ◈ -->
 <svg width="860" height="80" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
