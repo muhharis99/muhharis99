@@ -143,28 +143,7 @@
 
 <div align="center">
 
-<!-- ✅ 100% inline SVG — tidak bergantung server manapun -->
 
-    <rect x="728" y="84" width="11" height="11" fill="#7a0000" rx="2"/>
-
-    <rect x="742" y="0"  width="11" height="11" fill="#FF0000" rx="2"/>
-    <rect x="742" y="14" width="11" height="11" fill="#b30000" rx="2"/>
-    <rect x="742" y="28" width="11" height="11" fill="#FF0000" rx="2"/>
-    <rect x="742" y="42" width="11" height="11" fill="#FF0000" rx="2"/>
-    <rect x="742" y="56" width="11" height="11" fill="#b30000" rx="2"/>
-    <rect x="742" y="70" width="11" height="11" fill="#FF0000" rx="2"/>
-    <rect x="742" y="84" width="11" height="11" fill="#FF0000" rx="2"/>
-  </g>
-
-  <!-- Legend -->
-  <text x="36"  y="118" font-family="monospace" font-size="8" fill="#444">Less</text>
-  <rect x="64"  y="108" width="10" height="10" fill="#161b22" rx="2"/>
-  <rect x="78"  y="108" width="10" height="10" fill="#3d0000" rx="2"/>
-  <rect x="92"  y="108" width="10" height="10" fill="#7a0000" rx="2"/>
-  <rect x="106" y="108" width="10" height="10" fill="#b30000" rx="2"/>
-  <rect x="120" y="108" width="10" height="10" fill="#FF0000" rx="2"/>
-  <text x="135" y="118" font-family="monospace" font-size="8" fill="#444">More</text>
-</svg>
 
 <br/><br/>
 
