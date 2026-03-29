@@ -143,20 +143,26 @@
 
 <div align="center">
 
-<!-- GitHub Stats — menggunakan github-readme-stats instance alternatif yang lebih stabil -->
-<img src="https://github-readme-stats.vercel.app/api?username=muhharis99&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&border_color=FF0000&border_radius=10&cache_seconds=1800" alt="GitHub Stats" height="170"/>
+<!-- ✅ ghchart.roo.dev — hosted by GitHub sendiri, 100% stabil -->
+<img src="https://ghchart.roo.dev/FF0000/muhharis99" alt="GitHub Contribution Chart" width="98%"/>
+
+<br/><br/>
+
+<!-- ✅ github-profile-summary-cards — sangat stabil, self-hosted -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhharis99&theme=github_dark" alt="GitHub Profile Summary" width="98%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhharis99&theme=github_dark" alt="Repos Per Language" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhharis99&layout=compact&theme=dark&bg_color=0d1117&title_color=FF0000&text_color=c9d1d9&border_color=FF0000&border_radius=10&cache_seconds=1800&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhharis99&theme=github_dark" alt="Most Commit Language" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhharis99&theme=github_dark" alt="Stats" height="160"/>
 
 <br/><br/>
 
-<!-- Streak Stats — demolab adalah service paling stabil untuk streak -->
+<!-- ✅ streak-stats.demolab.com — paling stabil untuk streak -->
 <img src="https://streak-stats.demolab.com/?user=muhharis99&theme=dark&background=0d1117&ring=FF0000&fire=FF4444&currStreakLabel=FF0000&border=FF0000&sideLabels=c9d1d9&dates=888888&border_radius=10" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- GitHub Activity Graph — alternatif tambahan yang stabil -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhharis99&bg_color=0d1117&color=FF4444&line=FF0000&point=FF6666&area=true&hide_border=false&border_color=FF0000&radius=10" alt="GitHub Activity Graph" width="98%"/>
 
 </div>
 
