@@ -29,7 +29,7 @@
   <text x="430" y="105" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#FFFFFF" text-anchor="middle" filter="url(#glow)">Muhammad Haris Chaidir</text>
   <rect x="180" y="112" width="500" height="2" fill="url(#line)"/>
   <text x="430" y="138" font-family="'Courier New', monospace" font-size="19" fill="#FF0000" text-anchor="middle" letter-spacing="5" font-weight="bold">{ haris.uix }</text>
-  <text x="430" y="162" font-family="'Courier New', monospace" font-size="10" fill="#555" text-anchor="middle" letter-spacing="3">📍  Surakarta, Jawa Tengah — Indonesia  🇮🇩</text>
+  <text x="430" y="162" font-family="'Courier New', monospace" font-size="10" fill="#555" text-anchor="middle" letter-spacing="3">📍  Surakarta, Jawa Tengah — Indonesia 🇮🇩</text>
 </svg>
 
 <br/>
@@ -52,75 +52,92 @@
 
 ## 👤 About Me
 
-```
-◈ Name     : Muhammad Haris Chaidir
-◈ Brand    : haris.uix
-◈ Role     : Full Stack Web Developer & UI/UX Designer
-◈ Company  : Bengawansoft
-◈ Location : Surakarta, Jawa Tengah, Indonesia 🇮🇩
-◈ Website  : https://www.harisuix.com
-◈ Email    : muhammadharischaidir90@gmail.com
-◈ Phone    : 0895-3762-57021
-◈ Exp      : 3+ Years
-◈ Status   : 🟢 Open to new projects & collaborations
-◈ Workflow : Analisa → Wireframe → Desain → Develop → Test → Deploy → Maintain
+> Full Stack Web Developer & UI/UX Designer with 3+ years of experience building web-based information systems — from healthcare platforms to POS & inventory solutions. I design clean interfaces and write maintainable code.
+
+```yaml
+Name     : Muhammad Haris Chaidir
+Brand    : haris.uix
+Role     : Full Stack Web Developer & UI/UX Designer
+Company  : Bengawansoft
+Location : Surakarta, Jawa Tengah, Indonesia 🇮🇩
+Website  : https://www.harisuix.com
+Email    : muhammadharischaidir90@gmail.com
+Phone    : 0895-3762-57021
+Exp      : 3+ Years
+Status   : 🟢 Open to new projects & collaborations
+Workflow : Analisa → Wireframe → Desain → Develop → Test → Deploy → Maintain
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ⬡ Frontend
+### Frontend
 
-| Badge | Skill |
-|:---:|:---|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | HTML5 — Struktur halaman web semantik |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | CSS3 — Styling, animasi, responsive design |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | JavaScript — Interaktivitas & logika frontend |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | Bootstrap — Framework CSS responsif |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### ⬡ Backend & Framework
+| Skill | Keterangan |
+|:---|:---|
+| HTML5 | Struktur halaman web semantik |
+| CSS3 | Styling, animasi, responsive design |
+| JavaScript | Interaktivitas & logika frontend |
+| Bootstrap | Framework CSS responsif |
 
-| Badge | Skill |
-|:---:|:---|
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | PHP — Core scripting & OOP |
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | Laravel — Full stack MVC framework |
-| ![CodeIgniter](https://img.shields.io/badge/CodeIgniter_3-EF4223?style=flat-square&logo=codeigniter&logoColor=white) | CodeIgniter 3 — Lightweight MVC framework |
-| ![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white) | CodeIgniter 4 — Modern MVC dengan namespace |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | MySQL — Relational database design & query |
+### Backend & Framework
 
-### ⬡ Design & Tools
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-| Badge | Skill |
-|:---:|:---|
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | Figma — UI design, prototype, & design system |
-| ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white) | Adobe XD — Wireframe & interactive prototype |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | Git — Version control & collaboration |
-| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | VS Code — Primary code editor |
+| Skill | Keterangan |
+|:---|:---|
+| PHP | Core scripting & OOP |
+| Laravel | Full stack MVC framework |
+| CodeIgniter 3 | Lightweight MVC framework |
+| CodeIgniter 4 | Modern MVC dengan namespace |
+| MySQL | Relational database design & query |
 
-### ⬡ Skill Level
+### Design & Tools
 
-| Skill | Level | Progress |
-|:---|:---:|:---|
-| HTML · CSS · JavaScript | 92% | `████████████████████░░` |
-| PHP — Core & OOP | 88% | `███████████████████░░░` |
-| Laravel Framework | 85% | `██████████████████░░░░` |
-| UI/UX Design · Figma | 85% | `██████████████████░░░░` |
-| MySQL & Database Design | 83% | `█████████████████░░░░░` |
-| CodeIgniter 3 / 4 | 80% | `████████████████░░░░░░` |
-| Git & Version Control | 80% | `████████████████░░░░░░` |
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+| Skill | Keterangan |
+|:---|:---|
+| Figma | UI design, prototype, & design system |
+| Adobe XD | Wireframe & interactive prototype |
+| Git | Version control & collaboration |
+| VS Code | Primary code editor |
+
+### Skill Level
+
+| Skill | Level |
+|:---|:---|
+| HTML · CSS · JavaScript | `████████████████████░░` 92% |
+| PHP — Core & OOP | `███████████████████░░░` 88% |
+| Laravel Framework | `██████████████████░░░░` 85% |
+| UI/UX Design · Figma | `██████████████████░░░░` 85% |
+| MySQL & Database Design | `█████████████████░░░░░` 83% |
+| CodeIgniter 3 / 4 | `████████████████░░░░░░` 80% |
+| Git & Version Control | `████████████████░░░░░░` 80% |
 
 ---
 
 ## 🧩 Services
 
-| Icon | Layanan | Deskripsi |
-|:---:|:---|:---|
-| 🌐 | **Website Development** | Company profile, landing page, CMS custom — responsif & modern |
-| 🏥 | **Sistem Informasi** | Klinik, RS, kasir, kepegawaian, inventory berbasis web |
-| 🎨 | **UI/UX Design** | Wireframe, prototype, & design system di Figma / Adobe XD |
-| 💬 | **WhatsApp API Integration** | Notifikasi otomatis, chatbot, antrian digital |
-| 🔧 | **Maintenance & Support** | Bug fix, update, optimasi performa, konsultasi teknis |
+| Layanan | Deskripsi |
+|:---|:---|
+| 🌐 **Website Development** | Company profile, landing page, CMS custom — responsif & modern |
+| 🏥 **Sistem Informasi** | Klinik, RS, kasir, kepegawaian, inventory berbasis web |
+| 🎨 **UI/UX Design** | Wireframe, prototype, & design system di Figma / Adobe XD |
+| 💬 **WhatsApp API Integration** | Notifikasi otomatis, chatbot, antrian digital |
+| 🔧 **Maintenance & Support** | Bug fix, update, optimasi performa, konsultasi teknis |
 
 ---
 
@@ -132,16 +149,18 @@
 | 2 | 🌐 **Website RSU Islam Klaten** | Company Profile RS | Laravel · CMS Custom | ![Live](https://img.shields.io/badge/●_LIVE-00C853?style=flat-square) |
 | 3 | 🌶️ **Website PT Lombok Gandaria** | Company Profile UMKM | Laravel · MySQL | ![Live](https://img.shields.io/badge/●_LIVE-00C853?style=flat-square) |
 | 4 | 🏫 **Website SLBN Karanganyar** | Pendidikan | PHP · CMS | ![Live](https://img.shields.io/badge/●_LIVE-00C853?style=flat-square) |
-| 5 | 💅 **SI Klinik Mutiavie** | Klinik + Kasir | CodeIgniter · MySQL | ![Done](https://img.shields.io/badge/✓_DONE-FF0000?style=flat-square) |
-| 6 | 🛒 **POS + Inventory System** | Kasir & Stok | CodeIgniter · MySQL | ![Done](https://img.shields.io/badge/✓_DONE-FF0000?style=flat-square) |
-| 7 | 💬 **SI Keluhan RSU** | Keluhan Digital | PHP · WhatsApp API | ![Done](https://img.shields.io/badge/✓_DONE-FF0000?style=flat-square) |
-| 8 | 📱 **SI Deposit Pulsa** | Web App | PHP · WhatsApp API | ![Done](https://img.shields.io/badge/✓_DONE-FF0000?style=flat-square) |
+| 5 | 💅 **SI Klinik Mutiavie** | Klinik + Kasir | CodeIgniter · MySQL | ![Done](https://img.shields.io/badge/✓_DONE-555555?style=flat-square) |
+| 6 | 🛒 **POS + Inventory System** | Kasir & Stok | CodeIgniter · MySQL | ![Done](https://img.shields.io/badge/✓_DONE-555555?style=flat-square) |
+| 7 | 💬 **SI Keluhan RSU** | Keluhan Digital | PHP · WhatsApp API | ![Done](https://img.shields.io/badge/✓_DONE-555555?style=flat-square) |
+| 8 | 📱 **SI Deposit Pulsa** | Web App | PHP · WhatsApp API | ![Done](https://img.shields.io/badge/✓_DONE-555555?style=flat-square) |
 
 ---
 
 ## 📬 Let's Connect
 
-| Platform | Detail |
+Terbuka untuk kolaborasi, freelance, maupun diskusi teknis. Hubungi saya melalui:
+
+| Platform | Kontak |
 |:---|:---|
 | 🌐 **Website** | [harisuix.com](https://www.harisuix.com) |
 | 📱 **WhatsApp** | [0895-3762-57021](https://wa.me/62895376257021) |
@@ -160,11 +179,9 @@
 [![Instagram](https://img.shields.io/badge/📸_Instagram-%40haris.uix-E4405F?style=for-the-badge&labelColor=0d0d0d)](https://instagram.com/haris.uix)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0A66C2?style=for-the-badge&labelColor=0d0d0d)](https://www.linkedin.com/in/muhammad-haris-chaidir-96671720a/)
 
-</div>
+<br/>
 
 ---
-
-<div align="center">
 
 *"Kode yang baik bukan hanya berjalan — tapi bisa dirawat dan dikembangkan."*
 
